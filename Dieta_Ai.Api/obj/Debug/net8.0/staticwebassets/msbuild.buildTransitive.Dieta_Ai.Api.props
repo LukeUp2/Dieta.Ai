@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Dieta_Ai.Api.props" />
+</Project>
